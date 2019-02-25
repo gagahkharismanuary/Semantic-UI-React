@@ -45,7 +45,7 @@ See the [Documentation][2] for an introduction, usage information, and extensive
 <img align="left" height="50" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI-React/master/docs/public/amazon-logo.png" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI-React/master/docs/public/netflix-logo.png" />
 <a href="https://github.com/Semantic-Org/Semantic-UI-React/edit/master/README.md">
-  <img height="50" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/add-yours.png" />
+  <img height="50" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI-React/master/docs/public/microsoft-logo.png" />
 </a>
 
 These great products are built on Semantic UI React. Add yours [here][22].
